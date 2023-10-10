@@ -1,8 +1,12 @@
+#titulo-h2 {
+    color: darkorange;
+}
+
 .fundo-amarelo {
     background: yellow;
 }
 
-.texto vermelho {
+.texto-vermelho {
     color: red;
 }
 
